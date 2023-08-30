@@ -1,4 +1,8 @@
 ---
+title: 7zip - PowerShell Commands
+date: 2023-08-30 15:08:27 -0400
+categories: [insert_here]
+tags: [insert_here_no_hash]
 github-publish: true
 ---
 ## Commands
